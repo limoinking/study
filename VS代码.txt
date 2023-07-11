@@ -1,0 +1,28 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <iostream>
+#include <cstring>
+#include <cstdio>
+#include <cmath>
+#include <algorithm>
+using namespace std;
+#define MAXN 105
+#define MAXM 102
+#define inf  2147483647
+typedef long long ll;
+ios::sync_with_stdio(false);
+#define mset(t, x) memset(t,x,sizeof(t))
+#define loop(a, b, c) for(int a=b;a<=c;a++)
+#define loop2(a, b, c) for(int a=b;a>=c;a--)
+#define loop3(a, b, c) for(int a=b;a<c;a++)
+#define loop4(a, b, c) for(int a=b;a>c;a--)
+#define maxn 150
+#define maxm 20
+
+6 7
+1 2
+2 3
+2 4
+3 5
+4 5
+5 6
+5 7
